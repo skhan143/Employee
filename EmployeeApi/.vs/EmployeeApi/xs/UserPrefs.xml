@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{13630E2E-A025-4660-94C1-01CB71A8ACF1}|http">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Controllers/EmployeeController.cs">
+    <Files>
+      <File FileName="Startup.cs" />
+      <File FileName="Program.cs" />
+      <File FileName="Model/Employee.cs" />
+      <File FileName="DataAccess/EmployeeRepository.cs" />
+      <File FileName="appsettings.json" />
+      <File FileName="Controllers/EmployeeController.cs" Line="105" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="EmployeeApi" expanded="True">
+            <Node name="EmployeeApi" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="EmployeeController.cs" selected="True" />
+              </Node>
+              <Node name="DataAccess" expanded="True" />
+              <Node name="Model" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.EmployeeApi PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
